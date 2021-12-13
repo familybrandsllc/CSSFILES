@@ -1,0 +1,25 @@
+h2 {
+	color: #eee !important;
+}
+
+a {
+    color: #998144 !important;
+}
+
+.wine-card{
+	background-color: #231f20 !important;
+    border: 1px solid #998144 !important;
+}
+
+.button {
+	background-color: #998144 !important;
+    border: 1px solid #eee !important;
+}
+
+.wine-info p.price {
+    color: #b2aa97 !important;
+}
+
+.wine-info .wine-detail {
+    color: #ccc !important;
+}
